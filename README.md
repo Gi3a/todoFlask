@@ -1,6 +1,6 @@
 # todoFlask App
 
-Todo list on python flask
+Todo list on python flask with MySQL
 ![alt tag](https://github.com/Gi3a/todoFlask/blob/main/screen.png)
 
 ## Getting started
